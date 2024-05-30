@@ -1,0 +1,26 @@
+[
+    {
+        "path": "/",
+        "name": "Biblioteca Online"
+    },
+    {
+        "path": "/inventory",
+        "name": "Inventario"
+    },
+    {
+        "path": "/services",
+        "name": "Servicios"
+    },
+    {
+        "path": "/contact",
+        "name": "Contacto"
+    },
+    {
+        "path": "/login",
+        "name": "Ingresar"
+    },
+    {
+        "path": "/signup",
+        "name": "Registrarse"
+    }
+]
