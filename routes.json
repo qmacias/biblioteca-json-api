@@ -1,25 +1,31 @@
 [
     {
+        "id": 1,
         "path": "/",
         "name": "Biblioteca Online"
     },
     {
+        "id": 2,
         "path": "/inventory",
         "name": "Inventario"
     },
     {
+        "id": 3,
         "path": "/services",
         "name": "Servicios"
     },
     {
+        "id": 4,
         "path": "/contact",
         "name": "Contacto"
     },
     {
+        "id": 5,
         "path": "/login",
         "name": "Ingresar"
     },
     {
+        "id": 6,
         "path": "/signup",
         "name": "Registrarse"
     }

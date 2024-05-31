@@ -1,30 +1,36 @@
 [
     {
+        "id": 1,
         "icon": "fa fa-bookmark",
         "heading": "Recomendaciones",
         "description": "Recibe sugerencias de lectura en base a tus intereses y preferencias, para que descubras nuevas obras cautivadoras."
     },
     {
+        "id": 2,
         "icon": "fa fa-headphones",
         "heading": "Audiolibros",
         "description": "Disfruta de tus libros favoritos en formato audio, ideal para cuando viajas, haces ejercicio o simplemente te relajas."
     },
     {
+        "id": 3,
         "icon": "fa fa-users",
         "heading": "Clubes de lectura",
         "description": "Únete a nuestra comunidad de lectores, comparte tus opiniones y descubre nuevas perspectivas sobre tus libros favoritos."
     },
     {
+        "id": 4,
         "icon": "fa fa-laptop",
         "heading": "Lecturas en línea",
         "description": "Accede a nuestra amplia selección de libros electrónicos desde cualquier dispositivo, sin necesidad de descargas adicionales."
     },
     {
+        "id": 5,
         "icon": "fa fa-cloud-download",
         "heading": "Recursos digitales",
         "description": "Explora nuestro catálogo de recursos digitales exclusivos, como entrevistas con autores, guías de lectura y mucho más."
     },
     {
+        "id": 6,
         "icon": "fa fa-comments",
         "heading": "Asistencia 24/7",
         "description": "Nuestro equipo de expertos estará disponible para brindarte asesoramiento y responder cualquier pregunta que tengas."
