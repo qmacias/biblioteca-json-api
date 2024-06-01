@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "icon": "fa fa-bookmark",
+        "icon": "fa fa-star",
         "heading": "Recomendaciones",
         "description": "Recibe sugerencias de lectura en base a tus intereses y preferencias, para que descubras nuevas obras cautivadoras."
     },
@@ -13,26 +13,26 @@
     },
     {
         "id": 3,
-        "icon": "fa fa-users",
+        "icon": "fa fa-user-plus",
         "heading": "Clubes de lectura",
         "description": "Únete a nuestra comunidad de lectores, comparte tus opiniones y descubre nuevas perspectivas sobre tus libros favoritos."
     },
     {
         "id": 4,
-        "icon": "fa fa-laptop",
+        "icon": "fa fa-podcast",
         "heading": "Lecturas en línea",
         "description": "Accede a nuestra amplia selección de libros electrónicos desde cualquier dispositivo, sin necesidad de descargas adicionales."
     },
     {
         "id": 5,
-        "icon": "fa fa-cloud-download",
+        "icon": "fa fa-arrow-down",
         "heading": "Recursos digitales",
         "description": "Explora nuestro catálogo de recursos digitales exclusivos, como entrevistas con autores, guías de lectura y mucho más."
     },
     {
         "id": 6,
-        "icon": "fa fa-comments",
-        "heading": "Asistencia 24/7",
+        "icon": "fa fa-life-ring",
+        "heading": "Equipo de soporte",
         "description": "Nuestro equipo de expertos estará disponible para brindarte asesoramiento y responder cualquier pregunta que tengas."
     }
 ]
