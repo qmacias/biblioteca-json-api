@@ -1,0 +1,354 @@
+[
+    {
+        "img": {
+            "alt": "The Demon of Unrest, a book release by Erik Larson.",
+            "path": "../assets/img/book_1/srcset/book_1_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 371px) 371px",
+                "(max-width: 634px) 634px",
+                "(max-width: 841px) 841px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_1/srcset/book_1_w_200.webp 200w",
+                "../assets/img/book_1/srcset/book_1_w_371.webp 371w",
+                "../assets/img/book_1/srcset/book_1_w_634.webp 634w",
+                "../assets/img/book_1/srcset/book_1_w_841.webp 841w",
+                "../assets/img/book_1/srcset/book_1_w_900.webp 900w"
+            ]
+        },
+        "title": "The Demon of Unrest",
+        "author": "Erik Larson"
+    },
+    {
+        "img": {
+            "alt": "Light to The Hills, a book release by Bonnie Blaylock.",
+            "path": "../assets/img/book_2/srcset/book_2_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 341px) 341px",
+                "(max-width: 624px) 624px",
+                "(max-width: 819px) 819px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_2/srcset/book_2_w_200.webp 200w",
+                "../assets/img/book_2/srcset/book_2_w_341.webp 341w",
+                "../assets/img/book_2/srcset/book_2_w_624.webp 624w",
+                "../assets/img/book_2/srcset/book_2_w_819.webp 819w",
+                "../assets/img/book_2/srcset/book_2_w_900.webp 900w"
+            ]
+        },
+        "title": "Light to The Hills",
+        "author": "Bonnie Blaylock"
+    },
+    {
+        "img": {
+            "alt": "Holly, a book release by Stephen King.",
+            "path": "../assets/img/book_3/srcset/book_3_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 355px) 355px",
+                "(max-width: 696px) 696px",
+                "(max-width: 808px) 808px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_3/srcset/book_3_w_200.webp 200w",
+                "../assets/img/book_3/srcset/book_3_w_355.webp 355w",
+                "../assets/img/book_3/srcset/book_3_w_696.webp 696w",
+                "../assets/img/book_3/srcset/book_3_w_808.webp 808w",
+                "../assets/img/book_3/srcset/book_3_w_900.webp 900w"
+            ]
+        },
+        "title": "Holly",
+        "author": "Stephen King"
+    },
+    {
+        "img": {
+            "alt": "After Annie, a book release by Anna Quindlen.",
+            "path": "../assets/img/book_4/srcset/book_4_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 307px) 307px",
+                "(max-width: 658px) 658px",
+                "(max-width: 838px) 838px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_4/srcset/book_4_w_200.webp 200w",
+                "../assets/img/book_4/srcset/book_4_w_307.webp 307w",
+                "../assets/img/book_4/srcset/book_4_w_658.webp 658w",
+                "../assets/img/book_4/srcset/book_4_w_838.webp 838w",
+                "../assets/img/book_4/srcset/book_4_w_900.webp 900w"
+            ]
+        },
+        "title": "After Annie",
+        "author": "Anna Quindlen"
+    },
+    {
+        "img": {
+            "alt": "The Lord of The Ring, a book release by J.R.R. Tolkien.",
+            "path": "../assets/img/book_5/srcset/book_5_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 368px) 368px",
+                "(max-width: 662px) 662px",
+                "(max-width: 830px) 830px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_5/srcset/book_5_w_200.webp 200w",
+                "../assets/img/book_5/srcset/book_5_w_368.webp 368w",
+                "../assets/img/book_5/srcset/book_5_w_662.webp 662w",
+                "../assets/img/book_5/srcset/book_5_w_830.webp 830w",
+                "../assets/img/book_5/srcset/book_5_w_900.webp 900w"
+            ]
+        },
+        "title": "The Lord of The Ring",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "img": {
+            "alt": "Mercy and Grace, a book release by Anoop Judge.",
+            "path": "../assets/img/book_6/srcset/book_6_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 379px) 379px",
+                "(max-width: 649px) 649px",
+                "(max-width: 836px) 836px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_6/srcset/book_6_w_200.webp 200w",
+                "../assets/img/book_6/srcset/book_6_w_379.webp 379w",
+                "../assets/img/book_6/srcset/book_6_w_649.webp 649w",
+                "../assets/img/book_6/srcset/book_6_w_836.webp 836w",
+                "../assets/img/book_6/srcset/book_6_w_900.webp 900w"
+            ]
+        },
+        "title": "Mercy and Grace",
+        "author": "Anoop Judge"
+    },
+    {
+        "img": {
+            "alt": "It Ends with Us, a book release by Colleen Hoover.",
+            "path": "../assets/img/book_7/srcset/book_7_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 342px) 342px",
+                "(max-width: 611px) 611px",
+                "(max-width: 826px) 826px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_7/srcset/book_7_w_200.webp 200w",
+                "../assets/img/book_7/srcset/book_7_w_342.webp 342w",
+                "../assets/img/book_7/srcset/book_7_w_611.webp 611w",
+                "../assets/img/book_7/srcset/book_7_w_826.webp 826w",
+                "../assets/img/book_7/srcset/book_7_w_900.webp 900w"
+            ]
+        },
+        "title": "It Ends with Us",
+        "author": "Colleen Hoover"
+    },
+    {
+        "img": {
+            "alt": "The Game and Other Stories, a book release by Joe Baldwin.",
+            "path": "../assets/img/book_8/srcset/book_8_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 384px) 384px",
+                "(max-width: 613px) 613px",
+                "(max-width: 837px) 837px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_8/srcset/book_8_w_200.webp 200w",
+                "../assets/img/book_8/srcset/book_8_w_384.webp 384w",
+                "../assets/img/book_8/srcset/book_8_w_613.webp 613w",
+                "../assets/img/book_8/srcset/book_8_w_837.webp 837w",
+                "../assets/img/book_8/srcset/book_8_w_900.webp 900w"
+            ]
+        },
+        "title": "The Game and Other Stories",
+        "author": "Joe Baldwin"
+    },
+    {
+        "img": {
+            "alt": "A Wrinkle in Time, a book release by Madeleine L'engle.",
+            "path": "../assets/img/book_9/srcset/book_9_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 384px) 384px",
+                "(max-width: 686px) 686px",
+                "(max-width: 810px) 810px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_9/srcset/book_9_w_200.webp 200w",
+                "../assets/img/book_9/srcset/book_9_w_384.webp 384w",
+                "../assets/img/book_9/srcset/book_9_w_686.webp 686w",
+                "../assets/img/book_9/srcset/book_9_w_810.webp 810w",
+                "../assets/img/book_9/srcset/book_9_w_900.webp 900w"
+            ]
+        },
+        "title": "A Wrinkle in Time",
+        "author": "Madeleine L'engle"
+    },
+    {
+        "img": {
+            "alt": "A Great Country, a book release by Shilpi Somaya Gouda.",
+            "path": "../assets/img/book_10/srcset/book_10_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 326px) 326px",
+                "(max-width: 622px) 622px",
+                "(max-width: 812px) 812px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_10/srcset/book_10_w_200.webp 200w",
+                "../assets/img/book_10/srcset/book_10_w_326.webp 326w",
+                "../assets/img/book_10/srcset/book_10_w_622.webp 622w",
+                "../assets/img/book_10/srcset/book_10_w_812.webp 812w",
+                "../assets/img/book_10/srcset/book_10_w_900.webp 900w"
+            ]
+        },
+        "title": "A Great Country",
+        "author": "Shilpi Somaya Gouda"
+    },
+    {
+        "img": {
+            "alt": "The Secret, a book release by Jack Reacher.",
+            "path": "../assets/img/book_11/srcset/book_11_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 335px) 335px",
+                "(max-width: 673px) 673px",
+                "(max-width: 847px) 847px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_11/srcset/book_11_w_200.webp 200w",
+                "../assets/img/book_11/srcset/book_11_w_335.webp 335w",
+                "../assets/img/book_11/srcset/book_11_w_673.webp 673w",
+                "../assets/img/book_11/srcset/book_11_w_847.webp 847w",
+                "../assets/img/book_11/srcset/book_11_w_900.webp 900w"
+            ]
+        },
+        "title": "The Secret",
+        "author": "Jack Reacher"
+    },
+    {
+        "img": {
+            "alt": "Eragon, a book release by Cristopher Paolini.",
+            "path": "../assets/img/book_12/srcset/book_12_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 357px) 357px",
+                "(max-width: 622px) 622px",
+                "(max-width: 849px) 849px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_12/srcset/book_12_w_200.webp 200w",
+                "../assets/img/book_12/srcset/book_12_w_357.webp 357w",
+                "../assets/img/book_12/srcset/book_12_w_622.webp 622w",
+                "../assets/img/book_12/srcset/book_12_w_849.webp 849w",
+                "../assets/img/book_12/srcset/book_12_w_900.webp 900w"
+            ]
+        },
+        "title": "Eragon",
+        "author": "Cristopher Paolini"
+    },
+    {
+        "img": {
+            "alt": "Butcher &amp; Blackbird, a book release by Brynne Weaver.",
+            "path": "../assets/img/book_13/srcset/book_13_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 353px) 353px",
+                "(max-width: 661px) 661px",
+                "(max-width: 812px) 812px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_13/srcset/book_13_w_200.webp 200w",
+                "../assets/img/book_13/srcset/book_13_w_353.webp 353w",
+                "../assets/img/book_13/srcset/book_13_w_661.webp 661w",
+                "../assets/img/book_13/srcset/book_13_w_812.webp 812w",
+                "../assets/img/book_13/srcset/book_13_w_900.webp 900w"
+            ]
+        },
+        "title": "Butcher &amp; Blackbird",
+        "author": "Brynne Weaver"
+    },
+    {
+        "img": {
+            "alt": "No Control, a book release by Annie Wild.",
+            "path": "../assets/img/book_14/srcset/book_14_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 347px) 347px",
+                "(max-width: 613px) 613px",
+                "(max-width: 804px) 804px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_14/srcset/book_14_w_200.webp 200w",
+                "../assets/img/book_14/srcset/book_14_w_347.webp 347w",
+                "../assets/img/book_14/srcset/book_14_w_613.webp 613w",
+                "../assets/img/book_14/srcset/book_14_w_804.webp 804w",
+                "../assets/img/book_14/srcset/book_14_w_900.webp 900w"
+            ]
+        },
+        "title": "No Control",
+        "author": "Annie Wild"
+    },
+    {
+        "img": {
+            "alt": "The Canary Cowards, a book release by Jescie Hall.",
+            "path": "../assets/img/book_15/srcset/book_15_w_900.webp",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 326px) 326px",
+                "(max-width: 652px) 652px",
+                "(max-width: 829px) 829px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_15/srcset/book_15_w_200.webp 200w",
+                "../assets/img/book_15/srcset/book_15_w_326.webp 326w",
+                "../assets/img/book_15/srcset/book_15_w_652.webp 652w",
+                "../assets/img/book_15/srcset/book_15_w_829.webp 829w",
+                "../assets/img/book_15/srcset/book_15_w_900.webp 900w"
+            ]
+        },
+        "title": "The Canary Cowards",
+        "author": "Jescie Hall"
+    },
+    {
+        "img": {
+            "path": "../assets/img/book_16/srcset/book_16_w_900.webp",
+            "alt": "Gravitys Hammer, a book release by Jerry Reynolds.",
+            "sizes": [
+                "(max-width: 200px) 200px",
+                "(max-width: 422px) 422px",
+                "(max-width: 594px) 594px",
+                "(max-width: 835px) 835px",
+                "900px"
+            ],
+            "srcset": [
+                "../assets/img/book_16/srcset/book_16_w_200.webp 200w",
+                "../assets/img/book_16/srcset/book_16_w_422.webp 422w",
+                "../assets/img/book_16/srcset/book_16_w_594.webp 594w",
+                "../assets/img/book_16/srcset/book_16_w_835.webp 835w",
+                "../assets/img/book_16/srcset/book_16_w_900.webp 900w"
+            ]
+        },
+        "title": "Gravitys Hammer",
+        "author": "Jerry Reynolds"
+    }
+]
