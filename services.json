@@ -1,36 +1,36 @@
 [
     {
-        "id": 1,
+        "id": "d14bcf31-f50f-48f7-ae2e-afa2f4558fc0",
         "icon": "fa fa-star",
         "legend": "Recomendaciones",
         "sentence": "Recibe sugerencias de lectura en base a tus intereses y preferencias, para que descubras nuevas obras cautivadoras."
     },
     {
-        "id": 2,
+        "id": "0cbc3982-6624-4c66-a506-a011b7e97ece",
         "icon": "fa fa-headphones",
         "legend": "Audiolibros",
         "sentence": "Disfruta de tus libros favoritos en formato audio, ideal para cuando viajas, haces ejercicio o simplemente te relajas."
     },
     {
-        "id": 3,
+        "id": "d107e66b-08de-43d3-8c9e-7209ad29c9fa",
         "icon": "fa fa-user-plus",
         "legend": "Clubes de lectura",
         "sentence": "Únete a nuestra comunidad de lectores, comparte tus opiniones y descubre nuevas perspectivas sobre tus libros favoritos."
     },
     {
-        "id": 4,
+        "id": "8bbacd02-d4ce-4e86-8ecf-9502600663e8",
         "icon": "fa fa-podcast",
         "legend": "Lecturas en línea",
         "sentence": "Accede a nuestra amplia selección de libros electrónicos desde cualquier dispositivo, sin necesidad de descargas adicionales."
     },
     {
-        "id": 5,
+        "id": "a231f285-935a-40f0-a434-1c3032445712",
         "icon": "fa fa-arrow-down",
         "legend": "Recursos digitales",
         "sentence": "Explora nuestro catálogo de recursos digitales exclusivos, como entrevistas con autores, guías de lectura y mucho más."
     },
     {
-        "id": 6,
+        "id": "af709f25-673c-41c0-bf9d-521aa118e976",
         "icon": "fa fa-life-ring",
         "legend": "Equipo de soporte",
         "sentence": "Nuestro equipo de expertos estará disponible para brindarte asesoramiento y responder cualquier pregunta que tengas."
