@@ -2,31 +2,31 @@
     {
         "id": 1,
         "path": "/",
-        "name": "Biblioteca Online"
+        "label": "Biblioteca Online"
     },
     {
         "id": 2,
         "path": "/books",
-        "name": "Libros"
+        "label": "Libros"
     },
     {
         "id": 3,
         "path": "/services",
-        "name": "Servicios"
+        "label": "Servicios"
     },
     {
         "id": 4,
         "path": "/contact",
-        "name": "Contacto"
+        "label": "Contacto"
     },
     {
         "id": 5,
         "path": "/login",
-        "name": "Ingresar"
+        "label": "Ingresar"
     },
     {
         "id": 6,
         "path": "/signup",
-        "name": "Registrarse"
+        "label": "Registrarse"
     }
 ]
