@@ -3,7 +3,6 @@
         "id": 1,
         "img": {
             "alt": "The Demon of Unrest, a book release by Erik Larson.",
-            "path": "/assets/img/book_1/srcset/book_1_w_900.webp",
             "publicId": "book_1_900x1500_dyvver"
         },
         "title": "The Demon of Unrest",
@@ -13,7 +12,6 @@
         "id": 2,
         "img": {
             "alt": "Light to The Hills, a book release by Bonnie Blaylock.",
-            "path": "/assets/img/book_2/srcset/book_2_w_900.webp",
             "publicId": "book_2_900x1500_cfwaai"
         },
         "title": "Light to The Hills",
@@ -23,7 +21,6 @@
         "id": 3,
         "img": {
             "alt": "Holly, a book release by Stephen King.",
-            "path": "/assets/img/book_3/srcset/book_3_w_900.webp",
             "publicId": "book_3_900x1500_dszch5"
         },
         "title": "Holly",
@@ -33,7 +30,6 @@
         "id": 4,
         "img": {
             "alt": "After Annie, a book release by Anna Quindlen.",
-            "path": "/assets/img/book_4/srcset/book_4_w_900.webp",
             "publicId": "book_4_900x1500_kouaap"
         },
         "title": "After Annie",
@@ -43,7 +39,6 @@
         "id": 5,
         "img": {
             "alt": "The Lord of The Ring, a book release by J.R.R. Tolkien.",
-            "path": "/assets/img/book_5/srcset/book_5_w_900.webp",
             "publicId": "book_5_900x1500_lmytuc"
         },
         "title": "The Lord of The Ring",
@@ -53,7 +48,6 @@
         "id": 6,
         "img": {
             "alt": "Mercy and Grace, a book release by Anoop Judge.",
-            "path": "/assets/img/book_6/srcset/book_6_w_900.webp",
             "publicId": "book_6_900x1500_xng2yc"
         },
         "title": "Mercy and Grace",
@@ -63,7 +57,6 @@
         "id": 7,
         "img": {
             "alt": "It Ends with Us, a book release by Colleen Hoover.",
-            "path": "/assets/img/book_7/srcset/book_7_w_900.webp",
             "publicId": "book_7_900x1500_xggza1"
         },
         "title": "It Ends with Us",
@@ -73,7 +66,6 @@
         "id": 8,
         "img": {
             "alt": "The Game and Other Stories, a book release by Joe Baldwin.",
-            "path": "/assets/img/book_8/srcset/book_8_w_900.webp",
             "publicId": "book_8_900x1500_ehp45r"
         },
         "title": "The Game and Other Stories",
@@ -83,7 +75,6 @@
         "id": 9,
         "img": {
             "alt": "A Wrinkle in Time, a book release by Madeleine L'engle.",
-            "path": "/assets/img/book_9/srcset/book_9_w_900.webp",
             "publicId": "book_9_900x1500_sdtgcp"
         },
         "title": "A Wrinkle in Time",
@@ -93,7 +84,6 @@
         "id": 10,
         "img": {
             "alt": "A Great Country, a book release by Shilpi Somaya Gouda.",
-            "path": "/assets/img/book_10/srcset/book_10_w_900.webp",
             "publicId": "book_10_900x1500_bkqosf"
         },
         "title": "A Great Country",
@@ -103,7 +93,6 @@
         "id": 11,
         "img": {
             "alt": "The Secret, a book release by Jack Reacher.",
-            "path": "/assets/img/book_11/srcset/book_11_w_900.webp",
             "publicId": "book_11_900x1500_o6wzif"
         },
         "title": "The Secret",
@@ -113,7 +102,6 @@
         "id": 12,
         "img": {
             "alt": "Eragon, a book release by Cristopher Paolini.",
-            "path": "/assets/img/book_12/srcset/book_12_w_900.webp",
             "publicId": "book_12_900x1500_gey7am"
         },
         "title": "Eragon",
@@ -123,7 +111,6 @@
         "id": 13,
         "img": {
             "alt": "Butcher &amp; Blackbird, a book release by Brynne Weaver.",
-            "path": "/assets/img/book_13/srcset/book_13_w_900.webp",
             "publicId": "book_13_900x1500_vwvpvx"
         },
         "title": "Butcher &amp; Blackbird",
@@ -133,7 +120,6 @@
         "id": 14,
         "img": {
             "alt": "No Control, a book release by Annie Wild.",
-            "path": "/assets/img/book_14/srcset/book_14_w_900.webp",
             "publicId": "book_14_900x1500_itg9o4"
         },
         "title": "No Control",
@@ -143,7 +129,6 @@
         "id": 15,
         "img": {
             "alt": "The Canary Cowards, a book release by Jescie Hall.",
-            "path": "/assets/img/book_15/srcset/book_15_w_900.webp",
             "publicId": "book_15_900x1500_bh2s9y"
         },
         "title": "The Canary Cowards",
@@ -152,7 +137,6 @@
     {
         "id": 16,
         "img": {
-            "path": "/assets/img/book_16/srcset/book_16_w_900.webp",
             "alt": "Gravitys Hammer, a book release by Jerry Reynolds.",
             "publicId": "book_16_900x1500_f1h3rw"
         },
