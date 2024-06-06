@@ -2,8 +2,8 @@
 
 Ver [Libros](https://qmacias.github.io/biblioteca-json-api/books.json)
 
-Ver [Rutas](https://qmacias.github.io/biblioteca-json-api/routes.json)
+Ver [Opciones](https://qmacias.github.io/biblioteca-json-api/options.json)
 
-Ver [HeroImg](https://qmacias.github.io/biblioteca-json-api/heroImg.json)
+Ver [Imagen Hero](https://qmacias.github.io/biblioteca-json-api/heroImg.json)
 
 Ver [Servicios](https://qmacias.github.io/biblioteca-json-api/services.json)
