@@ -6,13 +6,13 @@
     },
     {
         "id": 2,
-        "path": "/inventory",
-        "name": "Inventario"
+        "path": "/books",
+        "name": "Libros"
     },
     {
         "id": 3,
-        "path": "/assistance",
-        "name": "Asistencia"
+        "path": "/services",
+        "name": "Servicios"
     },
     {
         "id": 4,
